@@ -17,4 +17,20 @@ Una vez realizado este proceso, es necesario subir la carpeta `data` a la *raíz
 
 Una vez realizados estos pasos, simplemente se deberá de correr la Notebook en su totalidad para poder extraer las imágenes. La Notebook contiene información más detallada acerca del proceso de entrenamiento y la exploración de los datos utilizados.
 
-## Paso 2:
+## Paso 2: Instalación de dependencias
+Para instalar las dependencias
+```
+pip install -r requirements.txt
+```
+En caso de querer correr el programa fuera de jupyter notebook y si deseas correrlo dentro de un entorno virtual 
+  - [venv](https://docs.python.org/3/tutorial/venv.html) 
+  - Estando dentro de este directorio. Para crear un ambiente virtual:
+    ```
+    python -m venv venv
+    ```
+  - Instalar las dependencias
+    ```
+    pip install -r requirements.txt
+    ```
+
+
