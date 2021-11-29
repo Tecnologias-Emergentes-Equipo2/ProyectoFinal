@@ -1,8 +1,8 @@
 # Clasificación de Tumores Cerebrales Utilizando CNNs
 El propósito de este repositorio es almacenar el código utilizado comparando dos arquitecturas personalizadas como son: 
 
-  -[Resnet](https://keras.io/api/applications/resnet/)
-  -[AlexNet](https://learnopencv.com/understanding-alexnet/) 
+  - [Resnet](https://keras.io/api/applications/resnet/)
+  - [AlexNet](https://learnopencv.com/understanding-alexnet/) 
   
 Se busca poder desarrollar un modelo que pueda identificar cada uno de los siguientes tumores, así como visualizar el porcentaje de certeza en cada uno de los modelos.
   - [**Glioma**](https://www.mayoclinic.org/es-es/diseases-conditions/glioma/symptoms-causes/syc-20350251)
