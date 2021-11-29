@@ -32,6 +32,7 @@ En caso de querer correr el programa fuera de jupyter notebook y si deseas corre
     ```
     pip install -r requirements.txt
     ```
-
+# Arquitectura AlexNet
+Como se puede ver a continuación se realizó la 
 
 
