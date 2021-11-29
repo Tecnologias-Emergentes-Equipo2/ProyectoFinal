@@ -38,8 +38,12 @@ Como se puede ver a continuación se realizó el entrenamiento del modelo durant
  
 Finalmente se obtiene un resultado bastante bueno del 87% como se muestra a continuación :
 ![](./img/accuracy.png) 
+
 Por otro lado se observa una cantidad de respuestas verdaderas correspondientes y correctas a cada categoría descrita inicialmente:
-![](./img/Resultados AlexNet.png)
+![](./img/003.png)
 
 
-
+## Resultados obtenidos
+Como se observó en los puntos anteriores, se obtuvo un mejor resultado por parte de la arquitectura AlexNet, obteniendo alrededor del 87% mientras que por parte de ResNet se obtuvo un porcentaje del aproximado del 60%. 
+A continuación se puede visualizar la forma en como se realiza la predicción por parte del modelo y la clasificación real del tumor:
+![](./img/002.png)
