@@ -1,5 +1,6 @@
 # Clasificación de Tumores Cerebrales Utilizando CNNs
 El propósito de este repositorio es almacenar el código utilizado comparando dos arquitecturas personalizadas como son: 
+
   -[Resnet](https://keras.io/api/applications/resnet/)
   -[AlexNet](https://learnopencv.com/understanding-alexnet/) 
   
