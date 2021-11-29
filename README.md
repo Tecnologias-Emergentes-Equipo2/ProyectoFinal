@@ -32,7 +32,12 @@ En caso de querer correr el programa fuera de jupyter notebook y si deseas corre
     ```
     pip install -r requirements.txt
     ```
-# Arquitectura AlexNet
-Como se puede ver a continuación se realizó la 
+## Arquitectura AlexNet
+Como se puede ver a continuación se realizó el entrenamiento del modelo durante 10 épocas realizando el entrenamiento con un 80% de las imágenes dejando en reserva el 20% para testeo.
+ - ![](./img/entrenamiento_AlexNet.png)
+ 
+Finalmente se obtiene un resultado bastante bueno del 87% como se muestra a continuación:
+- ![](./img/accuracy.png)
+
 
 
