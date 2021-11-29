@@ -34,10 +34,10 @@ En caso de querer correr el programa fuera de jupyter notebook y si deseas corre
     ```
 ## Arquitectura AlexNet
 Como se puede ver a continuación se realizó el entrenamiento del modelo durante 10 épocas realizando el entrenamiento con un 80% de las imágenes dejando en reserva el 20% para testeo.
- - ![](./img/entrenamiento_AlexNet.png)
+![](./img/entrenamiento_AlexNet.png)
  
-Finalmente se obtiene un resultado bastante bueno del 87% como se muestra a continuación:
-- ![](./img/accuracy.png)
+Finalmente se obtiene un resultado bastante bueno del 87% como se muestra a continuación así como un buen porcentaje de respuestas verdaderas correspondientes a cada categoría descrita inicialmente:
+![](./img/accuracy.png) ![](./img/Resultados AlexNet.png)
 
 
 
