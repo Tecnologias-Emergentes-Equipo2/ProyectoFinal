@@ -23,12 +23,12 @@ Para instalar las dependencias
 pip install -r requirements.txt
 ```
 En caso de querer correr el programa fuera de jupyter notebook y si deseas correrlo dentro de un entorno virtual 
-  - [venv](https://docs.python.org/3/tutorial/venv.html) 
-  - Estando dentro de este directorio. Para crear un ambiente virtual:
-    ```
-    python -m venv venv
-    ```
-  - Instalar las dependencias
+- Tutorial para instalación --> [venv](https://docs.python.org/3/tutorial/venv.html) 
+- Una vez generado el ambiente virtual, aplicar el siguiente comando:
+  ```
+  python -m venv venv
+  ```
+- Instala las dependencias correspondientes a través del siguiente comando:
     ```
     pip install -r requirements.txt
     ```
