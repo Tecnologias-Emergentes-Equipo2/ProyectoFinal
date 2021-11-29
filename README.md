@@ -32,8 +32,18 @@ En caso de querer correr el programa fuera de jupyter notebook y si deseas corre
     ```
     pip install -r requirements.txt
     ```
+
+## Arquitectura ResNet
+Como se puede ver a continuación se realizó el entrenamiento del modelo durante 10 épocas realizando una distribución de los datos utilizando 50% de los datos de entrenamiento como de testeo.
+![](./img/005.png)
+
+El resultado obtenido de accuracy es de aproximadamente 60%
+![](./img/resnet_resultados.png)
+
+Por otro lado se observa una cantidad de respuestas verdaderas buena, pero con algunos errores de identificación como se muestra a continuación: 
+![](./img/004.png)
 ## Arquitectura AlexNet
-Como se puede ver a continuación se realizó el entrenamiento del modelo durante 10 épocas realizando el entrenamiento con un 80% de las imágenes dejando en reserva el 20% para testeo.
+Como se puede ver a continuación se realizó el entrenamiento del modelo durante 10 épocas realizando teniendo una distribución de los datos con un 80% de las imágenes para entrenamiento dejando en reserva el 20% para testeo.
 ![](./img/entrenamiento_AlexNet.png)
  
 Finalmente se obtiene un resultado bastante bueno del 87% como se muestra a continuación :
