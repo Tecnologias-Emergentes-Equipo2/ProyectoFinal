@@ -39,7 +39,7 @@ Como se puede ver a continuación se realizó el entrenamiento del modelo durant
 Finalmente se obtiene un resultado bastante bueno del 87% como se muestra a continuación :
 ![](./img/accuracy.png) 
 Por otro lado se observa una cantidad de respuestas verdaderas correspondientes y correctas a cada categoría descrita inicialmente:
-![](./img/Resultados AlexNet.png)
+![](./img/003.png)
 
 
 
