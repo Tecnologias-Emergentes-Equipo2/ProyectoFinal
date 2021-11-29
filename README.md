@@ -46,7 +46,8 @@ Por otro lado se observa una cantidad de respuestas verdaderas buena, pero con a
 Como se puede ver a continuación se realizó el entrenamiento del modelo durante 10 épocas realizando teniendo una distribución de los datos con un 80% de las imágenes para entrenamiento dejando en reserva el 20% para testeo.
 ![](./img/entrenamiento_AlexNet.png)
  
-Finalmente se obtiene un resultado bastante bueno del 87% como se muestra a continuación :
+Finalmente se obtiene un resultado bastante bueno del 87% como se muestra a continuación
+
 ![](./img/accuracy.png) 
 
 Por otro lado se observa una cantidad de respuestas verdaderas correspondientes y correctas a cada categoría descrita inicialmente:
